@@ -1,0 +1,2 @@
+# Answer-Task-1-
+Hello Dear I am done with the first task in fact I am not familiar with Html and CSS and it is my first time dealing with it. I tried my best to understand the code (using books, and video), I read the code by CodePen and got the three cards for apartments ads. After that, I tried to make ads for Hungarian restaurants that serve traditional Hungarian food. You can see the result in this link: https://codepen.io/Arezs/pens/popular From now I will learn more about Html and CSS to become proficient in using them. Thank you Areej Alsobh
